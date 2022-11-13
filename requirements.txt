@@ -290,7 +290,7 @@ jedi==0.18.0
 jeepney==0.8.0
 Jinja2==2.11.2
 jmespath==0.10.0
-joblib==0.14.1
+joblib==1.2.0
 JPype1==1.4.0
 json-logging-py==0.2
 json5==0.9.10
