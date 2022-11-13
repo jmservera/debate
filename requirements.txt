@@ -416,7 +416,7 @@ prometheus-client==0.14.1
 prometheus-flask-exporter==0.20.3
 prompt-toolkit==3.0.28
 property-cached==1.6.4
-protobuf==3.20.1
+protobuf==3.20.2
 psutil==5.9.1
 psycopg2 @ file:///tmp/build/80754af9/psycopg2_1612298147424/work
 ptyprocess==0.7.0
