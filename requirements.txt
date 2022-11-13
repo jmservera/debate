@@ -24,7 +24,7 @@ autokeras==1.0.16
 autopep8==1.7.0
 azure-appconfiguration==1.1.1
 azure-batch==12.0.0
-azure-cli==2.39.0
+azure-cli==2.40.0
 azure-cli-core==2.39.0
 azure-cli-telemetry==1.0.7
 azure-common==1.1.28
