@@ -192,7 +192,7 @@ contextlib2==21.6.0
 convertdate @ file:///tmp/build/80754af9/convertdate_1634070773133/work
 coremltools @ git+https://github.com/apple/coremltools@13c064ed99ab1da7abea0196e4ddf663ede48aad
 cramjam==2.5.0
-cryptography==37.0.4
+cryptography==38.0.3
 cufflinks==0.17.3
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 cymem==2.0.6
