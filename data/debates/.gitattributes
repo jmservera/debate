@@ -1,0 +1,10 @@
+speeches_term_V.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_VI.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_VII.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_XIV.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_IX.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_VIII.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_X.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_XI.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_XII.csv filter=lfs diff=lfs merge=lfs -text
+speeches_term_XIII.csv filter=lfs diff=lfs merge=lfs -text
