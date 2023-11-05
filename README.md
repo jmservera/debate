@@ -1,2 +1,3 @@
 # debate
-An AI project to mock politicians' debates
+
+The Spanish congress debates' as a Dataset for LLM.
