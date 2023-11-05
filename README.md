@@ -1,3 +1,3 @@
 # debate
 
-The Spanish congress debates' as a Dataset for LLM.
+The Spanish congress' debates as a Dataset for LLM.
